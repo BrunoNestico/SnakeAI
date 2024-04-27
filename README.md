@@ -2,14 +2,8 @@
 A comprehensive Python toolkit for training, testing, and visualizing a NEAT-driven AI that plays the snake game. This repository includes scripts for running the game, configuring the NEAT algorithm, and visualizing training progress.
 
 ## Overview
-This project uses the NeuroEvolution of Augmenting Topologies (NEAT) algorithm to train an AI capable of playing the snake game. It features tools for training new models, testing pre-trained AIs, and visualizing the evolution process through graphical displays. The project uses Pygame for game visualization and matplotlib with graphviz for training visualization.
+This project uses the NeuroEvolution of Augmenting Topologies (NEAT) algorithm to train an AI capable of playing the Snake game. It features tools for training new models, testing pre-trained AIs, and visualizing the evolution process. The project uses Pygame for game visualization and matplotlib with graphviz for training visualization.
 While the project is fully operational, it includes several areas for potential improvement, which are noted in the source code comments. 
-
-## Features
-- **Training Mode**: Train a new snake AI from scratch using detailed NEAT configurations.
-- **Testing Mode**: Evaluate the performance of a pre-trained snake AI.
-- **Graphical Display**: Watch the AI play the snake game in real-time.
-- **Training Visualization**: Monitor training progress with fitness plots.
 
 ## Getting Started
 ### Prerequisites
@@ -21,9 +15,8 @@ While the project is fully operational, it includes several areas for potential 
 - pickle
 
 ### Installation
-1. Clone this repository.
-   
-3. Install required packages: 
+1. Download the content of this repository.
+2. Install required packages: 
 pip install pygame neat-python matplotlib graphviz
 
 It is recomended to have all the files in the same folder to make sure the code will properly execute.
