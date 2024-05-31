@@ -1,5 +1,5 @@
 # SnakeAI
-A comprehensive Python toolkit for training, testing, and visualizing a NEAT-driven AI that plays the snake game. This repository includes scripts for running the game, configuring the NEAT algorithm, and visualizing training progress.
+A comprehensive Python script for training, testing, and visualizing a NEAT-trained AI that plays the snake game. This repository includes scripts for running the game, configuring the NEAT algorithm, and visualizing training progress.
 
 ## Overview
 This project uses the NeuroEvolution of Augmenting Topologies (NEAT) algorithm to train an AI capable of playing the Snake game. It features tools for training new models, testing pre-trained AIs, and visualizing the evolution process. The project uses Pygame for game visualization and matplotlib with graphviz for training visualization.
