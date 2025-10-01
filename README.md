@@ -17,7 +17,7 @@ While the project is fully operational, it includes several areas for potential 
 ### Installation
 1. Download the content of this repository.
 2. Install required packages: 
-pip install pygame neat-python matplotlib graphviz
+`pip install pygame neat-python matplotlib graphviz`
 
 It is recomended to have all the files in the same folder to make sure the code will properly execute.
 
